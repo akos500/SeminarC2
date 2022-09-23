@@ -10,7 +10,6 @@ else
     Console.WriteLine(InCenter(number));
 }
 
-
 // Функция принимает сообщение для отображения в консоли
 // и выводит результат введенных данных 
 int ReadInt(string message)
